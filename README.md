@@ -127,7 +127,7 @@ http://<EC2_PUBLIC_IP>:5000
 
 ### Ansible Execution
 
-![Ansible](images/  ansible.png)
+![Ansible](images/ansible.png)
 
 ### Jenkins Dashboard
 
